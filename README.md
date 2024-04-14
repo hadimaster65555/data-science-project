@@ -38,3 +38,6 @@ Do analysis on E-commerce Dataset using Python and BigQuery using several method
 ## [ANN dan CNN with Python - MNIST and CIFAR](https://colab.research.google.com/drive/12YynZWNk1U2d1mYayhNIRjDgYBrvanyw?usp=sharing)
 Deep Learning for image classification on MNIST and CIFAR-10 Dataset using Python and Tensorflow
 
+## [HR Attrition Dashboard](https://huggingface.co/spaces/hadimaster65555/hr_attrition_dashboard)
+Dashboard that monitor employees statistics and their personal performance complete with prediction of employee attrition and model explanation using LIME. Based on [HR Attrition Data](https://www.kaggle.com/datasets/gummulasrikanth/hr-employee-retention) on Kaggle 
+
