@@ -41,3 +41,5 @@ Deep Learning for image classification on MNIST and CIFAR-10 Dataset using Pytho
 ## [HR Attrition Dashboard](https://huggingface.co/spaces/hadimaster65555/hr_attrition_dashboard)
 Dashboard that monitor employees statistics and their personal performance complete with prediction of employee attrition and model explanation using LIME. Based on [HR Attrition Data](https://www.kaggle.com/datasets/gummulasrikanth/hr-employee-retention) on Kaggle 
 
+## [MNIST CNN Application with Canvas and Gradio](https://huggingface.co/spaces/hadimaster65555/mnist_canvas)
+Simple application that show the implementation of deep learning model to MNIST data using Tensorflow & Keras and Gradio.
