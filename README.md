@@ -43,3 +43,6 @@ Dashboard that monitor employees statistics and their personal performance compl
 
 ## [MNIST CNN Application with Canvas and Gradio](https://huggingface.co/spaces/hadimaster65555/mnist_canvas)
 Simple application that show the implementation of deep learning model to MNIST data using Tensorflow & Keras and Gradio.
+
+## [PCA vs T-SNE vs UMAP vs TRIMap vs PaCMAP](https://www.kaggle.com/code/hadimaster/pca-vs-t-sne-vs-umap-vs-trimap-vs-pacmap)
+This notebook is my experiment on experimenting with several embedding algorithms on several version to check which one is the best algorithm without any hyperparameter tuning.
