@@ -1,4 +1,4 @@
-# data-science-project
+# Data Science Projects
 My repository for my own portfolio
 
 ## [Fuzzy Cluster Analysis with USArrest Dataset](https://github.com/hadimaster65555/fuzzy-cluster-analysis-with-USArrest-Data)
