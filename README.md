@@ -1,5 +1,6 @@
-# Data Science Projects
-My repository for my own portfolio
+# Data Science & AI Engineering Projects
+
+Repository of my own data science and AI engineering projects. 
 
 ## [Fuzzy Cluster Analysis with USArrest Dataset](https://github.com/hadimaster65555/fuzzy-cluster-analysis-with-USArrest-Data)
 
