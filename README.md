@@ -46,3 +46,9 @@ Simple application that show the implementation of deep learning model to MNIST 
 
 ## [PCA vs T-SNE vs UMAP vs TRIMap vs PaCMAP](https://www.kaggle.com/code/hadimaster/pca-vs-t-sne-vs-umap-vs-trimap-vs-pacmap)
 This notebook is my experiment on experimenting with several embedding algorithms on several version to check which one is the best algorithm without any hyperparameter tuning.
+
+## [On Fraud Transaction Embedding](https://www.kaggle.com/code/hadimaster/on-fraud-transaction-embedding)
+This notebook showcase my experiment on using several embedding algorithms to visualize and understand the impact on parameter tuning to separability of legitimate vs fraud transaction behavior.
+
+## [On Embedding of Money Laundering Behavior](https://www.kaggle.com/code/hadimaster/on-embedding-of-money-laundering-behavior)
+This notebook showcase my experiment on using several embedding algorithms to visualize and understand the use of embedding model to separate legitimate transaction and money laundering behavior.
