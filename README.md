@@ -53,3 +53,6 @@ This notebook showcase my experiment on using several embedding algorithms to vi
 
 ## [On Embedding of Money Laundering Behavior](https://www.kaggle.com/code/hadimaster/on-embedding-of-money-laundering-behavior)
 This notebook showcase my experiment on using several embedding algorithms to visualize and understand the use of embedding model to separate legitimate transaction and money laundering behavior.
+
+## [PCA vs T-SNE vs UMAP on MNIST Dataset - R Version](https://www.kaggle.com/code/hadimaster/pca-vs-t-sne-vs-umap-on-mnist-dataset-r-version)
+This notebook is my experiment on experimenting with several embedding algorithms using R.
